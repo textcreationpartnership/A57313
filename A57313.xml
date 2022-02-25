@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the whole flock of God everywhere, the church of the first-born written in heaven, and to every member thereof, whose redeemer is the holy one of Israel grace, mercy, peace, truth and love from the God of peace and love be multiplied amongst you, and to you all, amen.</title>
+            <author>Rigge, Ambrose, 1634-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57313</idno>
+            <idno type="STC">Wing R1497</idno>
+            <idno type="STC">ESTC R40630</idno>
+            <idno type="EEBO-CITATION">19462586</idno>
+            <idno type="OCLC">ocm 19462586</idno>
+            <idno type="VID">108853</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57313)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108853)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1677:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the whole flock of God everywhere, the church of the first-born written in heaven, and to every member thereof, whose redeemer is the holy one of Israel grace, mercy, peace, truth and love from the God of peace and love be multiplied amongst you, and to you all, amen.</title>
+                  <author>Rigge, Ambrose, 1634-1704.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Ambrose Rigge.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:108853:1" rendition="simple:additions"/>
+            <opener>
+               <salute>TO THE Whole Flock of GOD EVERY WHERE, The Church of the Firſt-born written in Heaven, and, to every Member thereof, whoſe God is the Lord, and whoſe Redeemer is the Holy One of Iſrael; Grace Mercy, Peace, Truth and Love from the God of Peace and Love be multiplied amongſt you, and to you all, AMEN.</salute>
+            </opener>
+            <p>YOu are as a <hi>City</hi> that is ſet on an <hi>Hill,</hi> that cannot be hid, you choſen ones of the Lord God, who hath followed the Lamb in the regeneration, You hath God brought through many and great tribulations, and hath waſhed your garments <hi>in the blood of his Son,</hi> you hath he compaſſed about as with a <hi>Munition of Rocks,</hi> and hath redeemed you, and made you a purchaſed poſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion unto himſelf; You hath he cloathed with ſtrength and beauty, and hath made you as bold as Lyons, he hath gathered you by his Arm, and hath upheld you by his mighty power, and often hath he <hi>ſpread your Table in the ſight of your enemies;</hi> he hath tried you as Gold is tried in the Furance, and he hath purified you by his Spirit of Judgement, and burning, that he might take away your droſſe, and purge away your Tin; he hath ſuffered the wicked to plow long and deep ſurrows upon your backs, that he might try your faith and patience; And in all this you have not fainted, <hi>for your Bread hath been ſure,</hi> and your refreſhment hath not failed; He brought
+<pb n="2" facs="tcp:108853:2"/>
+you out of <hi>Egypt</hi> by a high hand, and thorow the <hi>Sea</hi> by his mighty Power; His wonders you have ſeen <hi>in the deep,</hi> and his marvellous acts among the Sons of men; He hath given you the necks of your Enemies to tread upon, Yea, he hath not withheld any good thing from you, whoſe wayes hath been di<g ref="char:EOLhyphen"/>rected according to his Truth; Many hath been the hard-ſhips and difficulties which he hath led you thorow, and great hath been the deliverances which he hath wrought for you, many ſtrong Oaks have bowed before you, becauſe the Lord was ith you, <hi>and the ſhout of a King was amongſt you;</hi> You have been ſmit<g ref="char:EOLhyphen"/>ten, but not deſtroyed, you have been caſt down, but not forſaken, the Lord hath been with you in all things, and hath not failed you, who have put your truſt in him; <hi>Oh! let the high praiſes o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lord be in your mouths, as a two edged ſword in your hands,</hi> for ſtrong is the Lord who pleadeth your cauſe, at his rebuke the Mountains of the Earth tremble, and the little Hills are moved; O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>! continue you ſtedfaſt in his power, and keep ye the Word of his pati<g ref="char:EOLhyphen"/>ence unto the end, that you may be crowned with everlaſting Dominion, over all your Enemies for ever.</p>
+            <p>And now, Oh my dear brethren &amp; ſiſters, who are called choſ<g ref="char:EOLhyphen"/>en and faithful, <hi>a peculiar people unto God, and zealous of good works,</hi> whom God hath known above all the families of the Earth; Dear is my love unto you, beyond what at preſent I can expreſs, thorow the ſtrength of which I cannot but expreſs, and declare openly, what the Lord in ſecret hath ſhewed me; <hi>I have ſeen the Camp of the Lord in ENGLAND compaſſed about with many Enemies of ſeveral ſorts, the B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lwarks is laid round about, and a ſnare at every Corner is prepared, and laid by the enemies of ZIONS con<g ref="char:EOLhyphen"/>verts, the Enemie as a roaring I you, is now going about ſeeking whom be may devour, for in great wrath he is with the woman who i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cloathed with the Sun, and with th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> remant of her ſeed, who keep the Teſtimo<g ref="char:EOLhyphen"/>ny of Jeſus, and the Word of God;</hi> M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny hath he ſtirred up to betray the Innocent, who lies lurking in holes and corners, to catch their prey; Great miſchief there is intended againſt the Lords choſen, now muſt <hi>the Beaſt exalt his horn as hi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h as the Hoſt of Heaven, for the purging of the Sanctuary of the Lord;</hi> And now ſhall baits <hi>of divers colours</hi> be laid whereby to ſnare them whom God hath made free, and now will <hi>the Enemie of God</hi> mu<g ref="char:EOLhyphen"/>ſter up all his forces, that will <hi>bear a weapon for him,</hi> in hopes to overcome them that keep <hi>the Teſtimony o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Jeſus, and the Word of
+<pb n="3" facs="tcp:108853:2"/>
+God,</hi> but they ſhall turn againſt them <hi>one way,</hi> and flie before them <hi>ſeven wayes,</hi> for a total overthrow hath God decreed to come upon all who exalt themſelves againſt him and his children, but firſt muſt their iniquiries come to a full growth, which is nigh at hand; Therefore my beloved, <hi>put on ſtrength as a Garment, and courage as a B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt-plate,</hi> and live out of mor<g ref="char:EOLhyphen"/>tal terror, and beware unto whom you let forth your ſelve; <hi>for perillous times are come,</hi> wherein <hi>brother ſhall betray brother to death,</hi> and the murtherer ſhall walk in the twilight, who ſeeks for the precious life; Many falſe ſpirits are now abroad in the World, the reign of Antichriſt draws near an end; <hi>And bleſſid are they who now watcheth and keepeth their Garments clean, for now muſt the beaſt be taken, and with him the falſe prophet that wrought miracles before him, and be caſt together into the Lake of fire,</hi> for it is their portion from the Lord; The great whore muſt now be plagued, <hi>who hath long ſitten as a Queen, and ſeen no ſorrow,</hi> ſhe now muſt be caſt <hi>into a bed of endleſſe torments,</hi> then ſhall <hi>JUDAH</hi> be ſaved, and <hi>ISRAEL</hi> ſhall dwell ſafely, <hi>for the Lord i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the midſt of them,</hi> who feedeth them of the fineſt of the Wheat, and with <hi>honey out of the Rock;</hi> So all dear hearts, who are of the <hi>Camp of the Lord,</hi> go not forth leaſt you be taken in the ſnares of the wicked, which they have prepared for you.</p>
+            <p>Let neither their frowns nor f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atteries overcome you, both of which you will be much aſſaulted with, and when the Enemy cannot overcome you one way, he will try another, <hi>for many will ſpeak fair to your faces, which hath murder in their hearts towards you;</hi> and becauſe iniquity doth abound, the love of ma<g ref="char:EOLhyphen"/>ny ſhall decay, and turn into hatred, and then bleſſed are you who are not offended, but patiently waits for the ſalvation of God, which aſſaredly he will accompliſh in his appointed time.</p>
+            <p>And though the <hi>Seas rage and ſwell,</hi> and lift up themſelves a<g ref="char:EOLhyphen"/>gainſt the banks, yet he that did decree that it ſhould not paſſe its bounds, is the ſame to day to them who truſt in him, <hi>and not a hair of your head ſhall fall to the ground without him;</hi> So be bold and valiant for Truth upon the Earth, that God in all things may be glorified, for he is now getting himſelf <hi>a Name in the Earth,</hi> and rearing up a Government that ſhall ſtand for ever, againſt which <hi>the gates of Hell ſhall not prevail;</hi> And though the
+<pb n="4" facs="tcp:108853:3"/>
+Mountains be caſt into the midſt of the Sea, yet his decree ſhall ſtand ſure and firm, for his word is an everlaſting Covenant, which who doth believe ſhall never be moved.</p>
+            <p>Now therefore all you choſen ones of the Lord God, who are the <hi>Lords Hoſt,</hi> be ye all <hi>wiſe as Serpents,</hi> and put on ſtrength and courage, for the Lord is with us of a truth; and walk all cir<g ref="char:EOLhyphen"/>cumſpectly, not as fools, but as wiſe, <hi>for Wiſdom is better then ſtrength;</hi> In the Eternal Light of the Son of God, have <hi>I ſeen ſpies ſent from far to behold your ſtrength,</hi> and plottings among many how to invade you, and enter into <hi>your fenced City,</hi> that hath <hi>Salvation</hi> for its <hi>Wall;</hi> great courage hath the enemy taken to in<g ref="char:EOLhyphen"/>vade you, becauſe they ſee not your ſtrength; but I have ſeen them as <hi>driven ſtubble before you,</hi> &amp; as the wind ſcattereth the chaff, ſo the breath of the Lord ſcattereth them, never more to come together; <hi>But firſt, muſt you ſuffer many things by this Generation,</hi> whom God hath raiſed up for that end, that your utmoſt ſtrength may be tryed, the tryal of which <hi>will be much more precious then Gold,</hi> to all them who are found faithful in that day which now approacheth near, where in the whole ſtrength of <hi>Antichriſt</hi> ſhall appear, and his laſt engagement very great and ſubtile, ſuch as was not yet known; But the day is the Lords, and the conqueſt is by him alone, <hi>for his is the Kingdom, the Power, and the Glory, for evermore;</hi> Then ſhall <hi>Judgement</hi> be given to the <hi>Saints,</hi> and the <hi>Antient of dayes ſhall ſit</hi> upon the wicked, and they ſhall eat the fruit of their doings; but the Lord ſhall be unto his Saints and Servants, an everlaſting Light, and the dayes of their mourning ſhall come to an end.</p>
+            <p>So all dear Brethren and Siſters, be ſtrong in the Lord, and in the Power of his Might, and put on the whole Armour of God, and give no place to the enemy in the particular nor in the general, let not the Multitude of <hi>Pharaohs</hi> hoſt make you afraid, nor the ſtrength of <hi>Antichriſt</hi> cauſe you to fly, for though they turn againſt you <hi>one way</hi> they ſhall fly before you <hi>ſeven wayes,</hi> and though they flouriſh as a green Bay tree Winter &amp; Summer, yet in a moment ſhall they be conſumed from the Earth, and their glory be turned into everlaſting contempt, <hi>the mouth of the Lord of Hoſts hath ſpoken it.</hi>
+            </p>
+            <p>And all dear hearts who are convinced of the Eternal truth, and are not yet come to feel deliverance from the bondage of
+<pb n="5" facs="tcp:108853:3"/>
+Corruption, but ſees your enemies many within and without, and are as it were between hope and fear, truſt you perfectly in the Name of the Lord by which you are called, that you may ſee him your <hi>Wall</hi> in the time of ſtorm; for many will the aſſaults of the enemy be, to draw you back again into <hi>Egypt,</hi> and many dangers will he ſet before you, that he may overthrow your faith and patience, and he will ſeek by all means to vaile that which ſhould let you ſee the Lords ſtrength; and then will he bring in weakneſs and fears upon you, and cauſe you to ſtumble and ſtagger at the promiſes which are <hi>yea and Amen</hi> to the ſeed of God in you; for he will ſift you as wheat, and fan you in the wind of his wrath; but the Lord will be with you in all theſe things, who will not ſuffer your feet to be moved, but will be a preſent help to all you who truſteth perfectly in his Name, by which you are called.</p>
+            <p>And though he may ſuffer the wicked to triumph for a time, and to incompaſs his heritage as a flood, yet their root ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ſoon become rotten, and their bloſſom ſhall fly up as the duſt, for Gods controverſie is nigh to be Sealed againſt them (never more to be revoked,) who have hardned their hearts and ſtifned their necks againſt his Government, and they that will not that he ſhould now rule over them, muſt now be <hi>ſlain by the word of his mouth.</hi>
+            </p>
+            <p>Therefore dearly beloved, be not ſoon moved from the hope of the Goſpel in Chriſt Jeſus, but remain ſtedfaſt in him, that your ſtrength by him may be renewed, and be kindly affectionated one to another and bear one another burthens, that ſo you may be ſtrengthened one in another, and be refreſhed one by another, that ſo the Eternal Name of God by which you are called may be Adorned by you and in you; for God hath not called you to <hi>wrath,</hi> but to obtain <hi>Salvation</hi> thorow his Son Jeſus Chriſt, who is <hi>King</hi> of <hi>Kings</hi> and <hi>Lord</hi> of <hi>Lords,</hi> to whom be Glory an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Im<g ref="char:EOLhyphen"/>mortality for ever and ever, <hi>Amen.</hi>
+            </p>
+            <p>Again, all you plants of the Lord God who are <hi>Rooted</hi> in the Truth, wait upon the Lord that you may grow in the ſame, and let your moderation be known unto all men, <hi>For the Lord hath a Glorious work to accompliſh through you, which few yet underſtands;</hi> and for that end is he now fitting you for himſelf, and giving you a heart to do his will, that he may abide with you for ever; for he
+<pb n="6" facs="tcp:108853:4"/>
+hath choſen you for his Portion and for his peculiar Treaſure; Oh therefore be you Zealous for his Name and his Truth up<g ref="char:EOLhyphen"/>on the Earth, <hi>and walk circumſpectly, not as fools, but as wiſe, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>edeem<g ref="char:EOLhyphen"/>ing the time becauſe the days are evil,</hi> not in chambering &amp; wanton<g ref="char:EOLhyphen"/>neſs, not in ſtrife and envy, but in truth and ſincerity, be ye pat<g ref="char:EOLhyphen"/>terns one to another in the way of life, that you may increaſe your ſtrength in him, who hath all Power in his hand, who aſſuredly will now make a ſhort work in the Earth, for his <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lect ſake,</hi> which hath long cryed, <hi>How long Lord holy and true, &amp;c.</hi> for this hath he remembred in the multitude of his mercies, and no<g ref="char:EOLhyphen"/>thing ſhall be able to hinder him from relieving of it, for it is his own, and his delight is in it, and he will rebuke oppreſſors of it, and chaſten them with his <hi>Iron Rod,</hi> and break them to pieces <hi>as a Potters veſſel,</hi> and none ſhall be able to reſcue them out of his hand; for he is jealous of his honour, and his renown will he not give to another, his Name ſhall be great in the Earth, and his truth among the ſons of men, his glory is appearing as the <hi>morning without Clouds,</hi> and his brightneſs is going forth as the <hi>Noon-day,</hi> the whole Earth ſhall be filled with his glory, and the ends there<g ref="char:EOLhyphen"/>of ſhall look unto to him for Salvation, which he is now accompliſh<g ref="char:EOLhyphen"/>ing for all who truly wait upon him, they ſhall ſay <hi>the Lord is our God alone,</hi> our ſtrength alone, our deliverer alone, our Rock, our refuge, and there is none beſides him in Heaven or Earth that is able to ſave or deſtroy, the Kingdom is his, the power is his, and the glory his for evermore.</p>
+            <p>Then ſhall the Lord be known to be one, his Name one, <hi>and all the Gods of the Heathen ſhall be famiſhed,</hi> and the Idols of the World ſhall come into everlaſting contempt, and perpetual ſhame which ſhall never be blotted out, and the living God ſhall be the God of the whole Earth, and all Nations ſhall flow unto him, <hi>then ſhall a little Child play upon the hole of an Aſp, and the weaned Child ſhall put his hand in the Cockatrice Den without any harm;</hi> for the deſtroyer ſhall be caſt out, and <hi>there ſhall be none to hurt in all the Holy Mountain of the Lord,</hi> for it ſhall be reſtored into its former perfect Beauty; and the Earth ſhall be filled with the knowl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dge of the glory of God, <hi>as the waters cover the Sea;</hi> and many ſhall ſay come let us walk in the Light of the Lord, up unto the Mountain of the Lord, and he will teach us of his way, and we will walk therein, for the Lord is our God, and we are his people,
+<pb n="7" facs="tcp:108853:4"/>
+and the ſheep of his Paſture, who will make mention of his Name in the deep, and his glory upon an Inſtrument of ten Strings; <hi>for the beauty of holineſs is come to be ſeen, and the Image of the Heaven<g ref="char:EOLhyphen"/>ly is fully renewed;</hi> This thing God is haſtening to accompliſh, and he will aſſuredly bring it to paſs in his appointed time, for all who continues in patience and well-doing unto the end; for this is the reward of the Righteous whom the Lord is now bring<g ref="char:EOLhyphen"/>ing thorew many Tribulations, in whoſe Mouths ſhall be the high praiſes of the Lord God for ever more.</p>
+            <p>Then ſhall the Merchants of <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abylon</hi> be plagued with a fore deſtruction, for the reward of iniquity ſhall be given unto them, they ſhall howl for pain of heart, and rore for grief of ſpirit, and none ſhall pitty them, <hi>reprobate ſilver ſhall they be called,</hi> becauſe God hath rejected them, for their manifold tranſgreſſions hath reached to Heaven which hath provoked the moſt high to wrath dayes wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hout Number, Oh! <hi>that my head were as waters, and mine eyes a Fountain of tears, that I might weep day and night for the miſery that is coming upon them; for th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y have been treacherous both to God and man, and hath far overpaſſed the deeds of the wicked deceivers in the dayes of Old;</hi> what ſhall I ſay of them, they are fit objects for Gods eternal vengeance to be poured upon without mix<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure, wch will be their reward from the God of Heaven for ever; all the <note n="*" place="margin">I mean King, Parli<g ref="char:EOLhyphen"/>am<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nts and Pro<g ref="char:EOLhyphen"/>tect<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Mountains wch from time to time they have cried unto to cover them, under which they have crept many ages ſhall not then hide them from the heavy ſtroke of the Almighty God, who is now a<g ref="char:EOLhyphen"/>riſing to plead with them by his ſword and by fire; they ſhall not cumber the Earth very long, neither ſhall they grieve the Lord many years longer, but he will eaſe himſelf of them, in over-throwing them in his hot diſpleaſure; for they have long ſlighted his mercy &amp; often diſp<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſed the offers of his grace, there<g ref="char:EOLhyphen"/>fore will he laugh at their deſtruction, and mock when their fear cometh, which now haſteneth apace, out of which none ſhall be able to deliver them.</p>
+            <p>So all my dear bretheren and Siſters in the Lord, and in his pretious truth, which ſhall abide for ever, let not your hearts be troubled, neither be ye diſmayed, for the Lord will r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtore <hi>Sion</hi> as at the firſt, and <hi>Jeruſal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m</hi> as at the beginning; and his Name ſhall be great among his Children, and his bleſſing ſhall reſt upon
+<pb facs="tcp:108853:5"/>
+them for ever; therefore all prize his Eternal love, and walk all worthy of it in your particular places &amp; callings, where the Lord hath ſet you, that you may bloſſom as the Roſe, and ſpring as the Lilly in the field, and may ſend forth a ſweet Savour to the Lord God in the Land of the Living; often are you in my re<g ref="char:EOLhyphen"/>membrance, even in the night ſeaſon, when deep ſleep falls upon men, then do I enter into the Sanctuary of the Lord, and behold your beauty and comlineſs which my Heavenly Father hath a<g ref="char:EOLhyphen"/>dorned you withall, with which my heart is raviſhed; and when <hi>I</hi> conſider the unexpreſſible love and mercy of God to us-ward, <hi>I</hi> am even overcome therewith; So this <hi>I</hi> write unto you, being part of the overflowings of the Fathers love in me towards you, which runneth forth freely unto the elect of God every where, a<g ref="char:EOLhyphen"/>mong whom <hi>I</hi> deſire this may be read in their particular aſſemblies in Gods fear and wiſdome, to the edifying, preſerving, and ſtrengthning of the whole flock of God, for which end it was given forth.</p>
+            <closer>
+               <dateline>Written in Hampton, <date>the 8th. of the 10. Month, 1660.</date>
+               </dateline>
+               <signed>By a Souldier in the <hi>Army</hi> of the <hi>Lamb,</hi> who hath no confidence in the a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m of fleſh, but am given up to do or to ſuffer all things according to the will of God in Chriſt Jeſus, for the hope that is ſet before me, who am called of men
+Ambroſe Rigge.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> at the ſign of the <hi>Bull</hi> and <hi>mouth</hi> near <hi>Alderſgate,</hi> 1660.</p>
+            <pb facs="tcp:108853:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
